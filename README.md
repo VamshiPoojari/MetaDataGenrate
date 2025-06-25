@@ -3,6 +3,8 @@
 
 ## Project Overview
   (open using colab i suggest)
+  https://colab.research.google.com/drive/1gIeQc1k3fDgkqo39cVqQSpPbEic8yhPQ?authuser=1
+  
 *Document Metadata Generator* is an advanced Python-based document processing system that automatically extracts comprehensive metadata from various document formats including PDF, DOCX, and TXT files. The system features intelligent OCR capabilities for scanned documents and provides detailed semantic analysis including sentiment analysis, entity recognition, and automated summarization.
 
 ---
